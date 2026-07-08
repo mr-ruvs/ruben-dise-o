@@ -63,6 +63,5 @@ Desarrollo de documentación técnica y planos normalizados. Abajo se muestra la
 
 <img src="img/plano.png" width="550" alt="Plano Técnico">
 
-* El archivo completo con los planos detallados está disponible en el repositorio como: `PLANOS_DIMENSIONAMIENTO2n.pdf`
-* [Ver o descargar PDF completo de los planos](img/PLANOS_DIMENSIONAMIENTO2n.pdf)
+* <a href="img/PLANOS_DIMENSIONAMIENTO2n.pdf" download>Descargar PDF completo de los planos</a>
 
